@@ -1,16 +1,11 @@
-# 🌐 Zion App Network — Interlinks
+# 🔗 Zion App Network
 
-**roi-calculator** is part of the Zion Tech Group app network (630+ apps).
+This app is part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
 
-- 🗃️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
+- 🏠 Homepage: https://ziontechgroup.com
+- 📂 Full catalog: https://ziontechgroup.com/apps/
+- 📢 Network overview: https://ziontechgroup.com/app-network/
+- 💻 GitHub: https://github.com/Zion-support
+- ✉️ commercial@ziontechgroup.com
 
-## Related apps
-- [meeting-cost-calculator](https://github.com/Zion-support/meeting-cost-calculator) — meeting cost math
-- [llm-cost-calculator](https://github.com/Zion-support/llm-cost-calculator) — LLM spend estimation
-- [cloud-cost-estimator](https://github.com/Zion-support/cloud-cost-estimator) — cloud cost estimates
-- [ai-readiness-assessment](https://github.com/Zion-support/ai-readiness-assessment) — AI readiness scoring
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+**Related apps:** [ai-roi-calculator](https://github.com/Zion-support/ai-roi-calculator) · [zion-ai-roi-calculator](https://github.com/Zion-support/zion-ai-roi-calculator) · [zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder)
