@@ -1,0 +1,6 @@
+title: Zion ROI Calculator
+url: https://ziontechgroup.com
+baseurl: /roi-calculator
+exclude:
+  - tests
+  - RELEASE-ROI-2026-10-09.md

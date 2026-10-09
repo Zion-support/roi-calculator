@@ -1,0 +1,13 @@
+name: ROI arithmetic and language contracts
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node --check assets/roi.js && node tests/roi.cjs
